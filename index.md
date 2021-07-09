@@ -1,8 +1,10 @@
-
+---
 layout: default
+permalink: index.html
 title: Front Page
+---
 
-# Recent Articles
+# Recent Articles?
 
 {% include articles.html %}
 
