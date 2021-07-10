@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: index.html
-title: Front Page
+title: Gabe Wong
 ---
 
 # Recent Articles?
