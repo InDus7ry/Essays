@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Testing Posts"
+layout: post
+title: "Utah Legislators Move Towards the Lake Powell Pipeline Project as HB297 Aggressively Protects Southern Utah Water Rights"
 pdate: "May 7, 2020"
 ---
 
