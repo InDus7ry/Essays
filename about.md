@@ -3,15 +3,10 @@ layout: default
 title: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The goal of this website is a place for me to share essays, opinion pieces, etc. with the world, independently from big tech. (Obviously the majority of the web is hosted on AWS, Microsoft Azure, etc., and the fact that I'm using github as a hosting service is problematic because of Microsoft's ownership, but I'm a college student so I'll make do.)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### About Me:
 
-
-[jekyll-organization]: https://github.com/jekyll
+Hi! I'm Gabe Wong (*He/Him*), a freshman at Western Washington University studying who the fuck knows what. I wrote and edited for the [Skyline Horizon](https://www.skylinehorizon.org) while I was in high school. I love hearing myself talk (this website existing is proof). I lean heavily left in my worldview and am currently flirting with the various flavors of communism.

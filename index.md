@@ -4,7 +4,7 @@ permalink: index.html
 title: Gabe Wong
 ---
 
-# Recent Articles?
+# Recent Posts
 
 {% include articles.html %}
 
