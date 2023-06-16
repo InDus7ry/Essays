@@ -3,10 +3,6 @@ layout: default
 title: About
 ---
 
-# About
+![Gabe Wong](/assets/images/Headshot.jpg)
 
-The goal of this website is a place for me to share essays, opinion pieces, etc. with the world, independently from big tech. (Obviously the majority of the web is hosted on AWS, Microsoft Azure, etc., and the fact that I'm using github as a hosting service is problematic because of Microsoft's ownership, but I'm a college student so I'll make do.)
-
-### About Me:
-
-Hi! I'm Gabe Wong (*He/Him*), a freshman at Western Washington University studying who the fuck knows what. I wrote and edited for the [Skyline Horizon](https://www.skylinehorizon.org) while I was in high school. I love hearing myself talk (this website existing is proof). I lean heavily left in my worldview and am currently flirting with the various flavors of communism.
+Gabe Wong (*they/she*), is a student at Western Washington University studying Women, Gender and Sexuality Studies. She works on-campus as [Student Senate President](https://as.wwu.edu/gov/senate/) and helps run the [Students for Self-Op](https://www.instagram.com/shredthecontractwwu/) club. They are also on the bargaining committee for [Western Academic Workers United / United Auto Workers Local 4121](https://www.wawu-union.org/2023/04/03/bargaining-committee-election-results/). They wrote for and edited the [Skyline Horizon](https://www.skylinehorizon.org) while she was in high school.
