@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UW Workers on strike"
-pdate: "June 10"
+pdate: "June 10, 2023"
 ---
 
 On Wednesday, thousands of postdocs and research scientists / engineers at the University of Washington struck citing unfair labor practices by UW management. I joined them on Thursday and briefly on Friday. Solidarity was in the air. When I arrived at 15th and Steven's Way, I could instantly feel the power these workers were showing.

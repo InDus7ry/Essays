@@ -1,9 +1,13 @@
 <ul>
 	{% for post in site.posts %}
-	<div class=article>
-		<a href="{{post.url}}">{{post.title}}</a>
-		<h4>{{post.pdate}}</h4>
-		<h3>{{post.excerpt | strip_html}}</h3>
-	</div>
+	<hr>
+	<a class=articlelink href="{{post.url}}">
+		<div class=article>
+			<h2>{{post.title}}</h2>
+			<h4>{{post.pdate}}</h4>
+			<p>{{post.excerpt|strip_html}}...</p>
+		</div>
+	</a>
 	{% endfor %}
+	<hr>
 </ul>

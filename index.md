@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: index.html
-title: Gabe Wong
+title: Home | Gab w/ Gabe
 ---
 
-# Recent Posts
+# Latest Posts
 
 {% include articles.html %}
 
